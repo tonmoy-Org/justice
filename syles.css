@@ -1,0 +1,70 @@
+/* modal  */
+#btn-modal {
+    background: #B68C5A;
+    color: #FFFFFF;
+}
+/* banner */
+#banner{
+    background-image: url('./images/banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    color: #FFFFFF;
+    
+}
+#banner-description{
+    color: #E7E7E7;
+}
+
+/* The Legal Practice Area */
+#main-description{
+    color: #707070 !important; 
+}
+#card-description {
+    color: #707070 !important;
+}
+/*  Client Say */
+#slider-img{
+    height: 680px !important;
+}
+#carousel-description{
+    color: #F3F3F3 !important;
+}
+
+/* form control */
+.card{
+    text-align: center !important;
+    background: #F3F3F3 !important;
+}
+#exampleFormControlInput1{
+    background: #F3F3F3 !important;
+    border-radius: 8px !important;
+}
+#exampleFormControlTextarea1{
+    background: #F3F3F3 !important;
+    border-radius: 8px !important;
+}
+/* footer */
+#footer-color{
+    color: #FFFFFF !important;
+    
+}
+#footer-description{
+    color: #CFCFCF !important;
+}
+.ul-list  a{
+    text-decoration:none !important;
+    color: #CFCFCF !important;
+}
+#exampleFormControlInput{
+    background: #F3F3F3 !important;
+    border-top-left-radius: 8px !important;
+    margin-right: -7px !important;
+}
+
+
+@media screen and (max-width:576px) {
+    #banner{
+       width: 100%;
+    }
+}
